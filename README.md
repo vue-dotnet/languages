@@ -1,2 +1,1 @@
-# languages
-编程语言笔记
+# languages 编程语言笔记
